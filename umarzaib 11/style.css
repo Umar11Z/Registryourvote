@@ -1,0 +1,48 @@
+
+head{
+    size: 20px;
+    
+}
+
+
+body {
+ /* background-image: url("./1.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%,100%; */
+    border: 2px solid black;
+    padding: 25px;
+    background: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  
+}
+
+label{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 0px;
+
+    /* font-size: 72px;
+    background: -webkit-linear-gradient(rgb(125, 247, 141), rgb(202, 201, 253));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+}
+
+input {
+    height:60px; 
+    font-size:14pt;
+    width: 600px;
+}
+
+legend {
+    color: whitep[p];
+    font-weight: bold;
+    font-size: 30px;
+}
+
+table {
+    
+}
